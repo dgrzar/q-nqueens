@@ -1,2 +1,4 @@
 # q-nqueens
-quantum solutions to the n queens problem
+Quantum solutions to the n queens problem.
+
+Annealing and gate (circuit) solutions will be implemented.
