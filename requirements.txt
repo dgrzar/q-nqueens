@@ -1,0 +1,4 @@
+imageio
+dwave-ocean-sdk
+qubovert
+matplotlib
